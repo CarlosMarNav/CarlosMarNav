@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 -->
 # Hola, soy Carlos 👋
 
-Bienvenido a mi perfil de GitHub.  
-Aquí encontrarás mis proyectos de Android y mis prácticas con APIs.
+Soy Carlos Martín Navarro, recién graduado del ciclo superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
+Me encanta todo lo relacionado con la **Programacion**, tengo muchas ganas de trabajar en proyectos reales y aprender nuevas cosas.
 
+De momento en mi GitHub comparto mis proyectos de prácticas y personales.
+
+Mi objetivo es seguir creciendo como desarrollador y encontrar un grupo con el que creecer laboralmente.  
 ---
 
 ## 📊 Estadísticas
