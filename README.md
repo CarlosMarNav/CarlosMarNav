@@ -38,8 +38,7 @@ Mi objetivo es seguir creciendo como desarrollador y encontrar un grupo con el q
 
 ## 💻 Mis proyectos destacados
 
-- [Retrofit Valorant API](https://github.com/CarlosMarNav/Retrofit-ValorantApi) → Conecta la API de Valorant en Android Studio usando Retrofit y Picasso.  
-- [RyM App](https://github.com/CarlosMarNav/RyM) → Proyecto de ejemplo con Retrofit y gestión de datos.  
+
 
 ---
 
