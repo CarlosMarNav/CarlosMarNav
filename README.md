@@ -16,9 +16,8 @@ Me interesan los proyectos con impacto real y los entornos donde se trabaja con 
 
 - 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 🔍 En búsqueda activa de mi primera oportunidad profesional
-- 🌱 Profundizando en arquitectura backend con **Spring Boot**
 - 📍 Basado en **Valencia, España**
-- 📫 **[tu@email.com](mailto:tu@email.com)**
+- 📫 **[tu@email.com](mailto:carlosmartinnavarro99@gmail.com)**
 
 ---
 
