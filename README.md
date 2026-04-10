@@ -61,16 +61,6 @@ Me interesan los proyectos con impacto real y los entornos donde se trabaja con 
 
 ---
 
-## Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosMarNav&show_icons=true&theme=default&hide_border=true&locale=es)
-
-</div>
-
----
-
 ## 🚀 Proyectos de prácticas — SendingBay (500h)
 
 ### Automatización de Pedidos
