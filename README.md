@@ -77,7 +77,6 @@ Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopif
 Aplicación web interna para gestionar el fichaje diario y el calendario de vacaciones de todos los empleados. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
