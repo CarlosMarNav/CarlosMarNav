@@ -9,6 +9,7 @@
 </div>
 ---
 
+
 ## Sobre mí
 
 Desarrollador con 1 año de experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
