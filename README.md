@@ -14,7 +14,7 @@
 
 Desarrollador con 1 año de experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
 
-Me caracterizo por mi capacidad de aprendizaje, atención al detalle y motivación por crear soluciones prácticas. Busco seguir creciendo profesionalmente enfrentándome a nuevos retos tecnológicos que me ayuden a crecer.
+"Programador junior especializado en desarrollo de aplicaciones, con gran capacidad de adaptación y aprendizaje rápido. Enfocado en la creación de soluciones prácticas, eficientes y orientadas a resultados.Apasionado por la tecnología y la mejora continua, con iniciativa para resolver problemas y afrontar nuevos retos. Busco incorporarme a un entorno profesional donde crecer como desarrollador y aportar valor desde el primer día.",
 
 - 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 1 año de experencia
