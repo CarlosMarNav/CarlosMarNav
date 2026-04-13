@@ -12,11 +12,12 @@
 
 ## Sobre mí
 
-Desarrollador recién graduado en el ciclo superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
+Desarrollador con 1 año de experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
 
 Me caracterizo por mi capacidad de aprendizaje, atención al detalle y motivación por crear soluciones prácticas. Busco seguir creciendo profesionalmente enfrentándome a nuevos retos tecnológicos que me ayuden a crecer.
 
 - 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
+- 1 año de experencia
 - 🔍 En búsqueda activa de mi primera oportunidad profesional
 - 📍 **Valencia, España**
 - 📫 [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
