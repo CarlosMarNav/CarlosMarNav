@@ -60,8 +60,9 @@ Programador junior especializado en desarrollo de aplicaciones, con gran capacid
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
-
+<div align="center">
 ##   ALGUNOS DE MIS PROYECTOS 
+</div>
 
 ## 🚀 Proyectos de prácticas — SendingBay (500h)
 
