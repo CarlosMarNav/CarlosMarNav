@@ -61,7 +61,7 @@ Programador junior especializado en desarrollo de aplicaciones, con gran capacid
 
 ---
 <div align="center">
-##   ALGUNOS DE MIS PROYECTOS 
+   ALGUNOS DE MIS PROYECTOS 
 </div>
 
 ## 🚀 Proyectos de prácticas — SendingBay (500h)
