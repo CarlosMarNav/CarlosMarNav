@@ -62,7 +62,7 @@ Programador junior especializado en desarrollo de aplicaciones, con gran capacid
 
 **IA y asistentes**
 
-![Claude](https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Terminal](https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 
