@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Desarrollador junior con 1 año de experiencia en backend, aplicaciones móviles, inteligencia artificial y bases de datos relacionales y no relacionales.
+Desarrollador junior con 1 año de experiencia en backend, aplicaciones móviles, inteligencia artificial.
 
 Me especializo en construir soluciones prácticas, eficientes y orientadas a resultados. Tengo gran capacidad de adaptación, aprendizaje rápido e iniciativa para resolver problemas y asumir nuevos retos. Estoy en búsqueda activa de una oportunidad profesional para seguir creciendo y aportar valor desde el primer día.
 
