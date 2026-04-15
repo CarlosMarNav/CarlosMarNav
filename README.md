@@ -2,7 +2,11 @@
 
 # Carlos Martín Navarro
 
-### Desarrollador de Aplicaciones Multiplataforma | Valencia, España
+### Desarrollador de Aplicaciones Multiplataforma | Backend, Mobile e IA
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=700&color=0A66C2&center=true&vCenter=true&width=650&lines=Construyo+soluciones+pr%C3%A1cticas+y+escalables;Backend+%7C+APIs+REST+%7C+Automatizaci%C3%B3n+%7C+IA;Siempre+aprendiendo+y+mejorando" alt="Typing SVG" />
+</p>
 
 [![Web](https://img.shields.io/badge/Web-carloscode.es-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.carloscode.es)
 [![GitHub](https://img.shields.io/badge/GitHub-CarlosMarNav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMarNav)
@@ -14,15 +18,24 @@
 
 ## Sobre mí
 
-Desarrollador junior con 1 año de experiencia en backend, aplicaciones móviles, inteligencia artificial.
+Desarrollador junior con 1 año de experiencia en **backend**, **aplicaciones móviles** e **inteligencia artificial aplicada**.
 
-Me especializo en construir soluciones prácticas, eficientes y orientadas a resultados. Tengo gran capacidad de adaptación, aprendizaje rápido e iniciativa para resolver problemas y asumir nuevos retos. Estoy en búsqueda activa de una oportunidad profesional para seguir creciendo y aportar valor desde el primer día.
+Me enfoco en crear productos útiles, mantenibles y orientados a resultados. Trabajo cómodo en equipos ágiles, aprendo rápido y disfruto resolver problemas técnicos de principio a fin.
 
 - 🎓 Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma)
-- 💼 1 año de experiencia
-- 🔍 En búsqueda activa de mi primera oportunidad profesional
-- 📍 **Valencia, España**
-- 📫 [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
+- 💼 1 año de experiencia real en proyectos
+- 🤖 Experiencia con IA aplicada y asistentes de código en terminal
+- 🔍 En búsqueda activa de una oportunidad para seguir creciendo
+- 📍 Valencia, España
+
+---
+
+## Qué puedo aportar
+
+- **Backend sólido:** diseño y desarrollo de APIs REST con buenas prácticas.
+- **Automatización:** bots y flujos que reducen tareas manuales.
+- **Visión producto:** soluciones pensadas para uso real, no solo para "que funcionen".
+- **Capacidad de adaptación:** aprendizaje rápido y foco en entrega.
 
 ---
 
@@ -57,7 +70,7 @@ Me especializo en construir soluciones prácticas, eficientes y orientadas a res
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### IA
+### IA y productividad en terminal
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude en Terminal](https://img.shields.io/badge/Claude_en_Terminal-191919?style=flat-square&logo=gnubash&logoColor=white)
@@ -66,66 +79,54 @@ Me especializo en construir soluciones prácticas, eficientes y orientadas a res
 
 ## Proyectos destacados
 
-### 🚀 Proyectos de prácticas - SendingBay (500h)
+### 🚀 SendingBay (500h de prácticas)
 
-#### Automatización de pedidos
-Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado. Incluye automatización anti-detección con Playwright + Camoufox, despliegue en Google Cloud con Docker y API Gateway.
+#### 1) Automatización de pedidos
+Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado. Incluye automatización anti-detección con Playwright + Camoufox y despliegue en Google Cloud con Docker y API Gateway.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+`Python` `Playwright` `Docker` `Google Cloud`
 
-#### Gestión de fichaje y vacaciones
-Aplicación web interna para gestionar el fichaje diario y el calendario de vacaciones de empleados. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
+#### 2) Gestión de fichaje y vacaciones
+Aplicación web interna para gestionar fichaje diario y calendario de vacaciones. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+`Python` `MySQL` `Bootstrap` `Google Cloud`
 
 ---
 
 ### 🤖 Bots de Discord
 
 #### Discord Bot Bienvenida
-Bot en JavaScript con `discord.js` que detecta nuevos miembros y envía un mensaje de bienvenida con embed personalizado. Incluye logging configurable (consola/SQLite) y asignación automática de roles.
+Bot en JavaScript con `discord.js` para detectar nuevos miembros y enviar mensajes de bienvenida con embed personalizado. Incluye logging configurable (consola/SQLite) y asignación automática de roles.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+`JavaScript` `Node.js` `SQLite`
 
 #### Discord Bot Logs
-Bot en TypeScript que monitoriza y registra en tiempo real eventos del servidor: entradas/salidas, cambios de roles, movimientos en canales de voz, baneos y mensajes eliminados.
+Bot en TypeScript que monitoriza y registra en tiempo real entradas/salidas, cambios de roles, movimientos en canales de voz, baneos y mensajes eliminados.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+`TypeScript` `Node.js`
 
 ---
 
 ### 🧑‍🎓 Proyectos académicos
 
 #### API REST - Spring Boot y MySQL
-API REST para la gestión de una clínica médica: médicos, pacientes, citas, historias clínicas, especialidades y facturas. Incluye CRUD completo, validación de disponibilidad y respuestas estandarizadas.
+API REST para gestión integral de clínica médica: médicos, pacientes, citas, historias clínicas, especialidades y facturas. CRUD completo con validación de disponibilidad y respuestas estandarizadas.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
+[![Repositorio](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
 
 #### API REST - NestJS y MongoDB
-API REST para gestión de noticias por secciones. Incluye búsqueda por título/autor con coincidencia parcial y validación de datos con DTOs y `class-validator`.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+API REST para noticias por secciones con búsqueda por título/autor y validación robusta con DTOs y `class-validator`.
 
 #### Frontend de Noticias - Angular
-SPA en Angular 20 que consume la API REST de noticias. Interfaz estilo magazine con formularios reactivos, gestión de imágenes, tiempo de lectura dinámico y estado reactivo con Signals.
+SPA en Angular 20 que consume la API REST de noticias. Interfaz tipo magazine con formularios reactivos, gestión de imágenes y estado reactivo con Signals.
 
-![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+---
+
+## Actualmente
+
+- 📚 Aprendiendo y mejorando en backend e IA aplicada.
+- 🛠️ Construyendo proyectos para reforzar arquitectura y buenas prácticas.
+- 🤝 Abierto a oportunidades junior en desarrollo backend/full stack.
 
 ---
 
