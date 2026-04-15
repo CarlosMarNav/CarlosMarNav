@@ -18,6 +18,7 @@ Programador junior especializado en desarrollo de aplicaciones, con gran capacid
 
 - 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
 - 1 año de experencia
+- 🤖 Manejo herramientas de IA generativa aplicadas al desarrollo
 - 🔍 En búsqueda activa de mi primera oportunidad profesional
 - 📍 **Valencia, España**
 - 📫 [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
