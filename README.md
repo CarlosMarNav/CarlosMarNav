@@ -59,7 +59,6 @@ Me especializo en construir soluciones prácticas, eficientes y orientadas a res
 
 ### IA
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude en Terminal](https://img.shields.io/badge/Claude_en_Terminal-191919?style=flat-square&logo=gnubash&logoColor=white)
 
