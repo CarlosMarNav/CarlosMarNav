@@ -16,30 +16,48 @@
 
 ---
 
-## Sobre mí
+## Perfil Profesional
 
-Desarrollador junior con 1 año de experiencia en **backend**, **aplicaciones móviles** e **inteligencia artificial aplicada**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-Me enfoco en crear productos útiles, mantenibles y orientados a resultados. Trabajo cómodo en equipos ágiles, aprendo rápido y disfruto resolver problemas técnicos de principio a fin.
+### 👨‍💻 Sobre mí
+Desarrollador junior con 1 año de experiencia en **backend**, **mobile** e **IA aplicada**.  
+Me enfoco en crear productos útiles, mantenibles y orientados a resultados.
 
-- 🎓 Titulado en **DAM** (Desarrollo de Aplicaciones Multiplataforma)
-- 💼 1 año de experiencia real en proyectos
-- 🤖 Experiencia con IA aplicada y asistentes de código en terminal
-- 🔍 En búsqueda activa de una oportunidad para seguir creciendo
+- 🎓 Titulado en **DAM**
+- 💼 Experiencia real en proyectos
 - 📍 Valencia, España
+- 🔍 Buscando oportunidad junior backend/full stack
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚀 Lo que aporto
+- Backend sólido con APIs REST bien estructuradas
+- Automatización de tareas y procesos repetitivos
+- Mentalidad de producto y foco en impacto real
+- Aprendizaje rápido y adaptación al equipo/proyecto
+
+### 🤖 IA en mi flujo
+Uso herramientas de IA para acelerar desarrollo, debugging y documentación:
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Claude en Terminal](https://img.shields.io/badge/Claude_en_Terminal-191919?style=flat-square&logo=gnubash&logoColor=white)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## Qué puedo aportar
+## 🧰 Stack Técnico (Cards)
 
-- **Backend sólido:** diseño y desarrollo de APIs REST con buenas prácticas.
-- **Automatización:** bots y flujos que reducen tareas manuales.
-- **Visión producto:** soluciones pensadas para uso real, no solo para "que funcionen".
-- **Capacidad de adaptación:** aprendizaje rápido y foco en entrega.
-
----
-
-## Stack técnico
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -54,13 +72,13 @@ Me enfoco en crear productos útiles, mantenibles y orientados a resultados. Tra
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-### Bases de datos
+  </td>
+  <td width="50%" valign="top">
+
+### Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -70,63 +88,85 @@ Me enfoco en crear productos útiles, mantenibles y orientados a resultados. Tra
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### IA y productividad en terminal
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Claude en Terminal](https://img.shields.io/badge/Claude_en_Terminal-191919?style=flat-square&logo=gnubash&logoColor=white)
+### Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## Proyectos destacados
+## 📌 Proyectos Destacados (Cards)
 
-### 🚀 SendingBay (500h de prácticas)
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-#### 1) Automatización de pedidos
-Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado. Incluye automatización anti-detección con Playwright + Camoufox y despliegue en Google Cloud con Docker y API Gateway.
+### 🚀 SendingBay - Automatización de Pedidos
+Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado.  
+Automatización anti-detección con Playwright + Camoufox y despliegue en Google Cloud.
 
 `Python` `Playwright` `Docker` `Google Cloud`
 
-#### 2) Gestión de fichaje y vacaciones
-Aplicación web interna para gestionar fichaje diario y calendario de vacaciones. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
+  </td>
+  <td width="50%" valign="top">
+
+### 🗓️ SendingBay - Fichaje y Vacaciones
+Aplicación web interna para gestionar fichaje diario y vacaciones de empleados con panel admin, informes exportables y tareas programadas.
 
 `Python` `MySQL` `Bootstrap` `Google Cloud`
 
----
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🤖 Bots de Discord
-
-#### Discord Bot Bienvenida
-Bot en JavaScript con `discord.js` para detectar nuevos miembros y enviar mensajes de bienvenida con embed personalizado. Incluye logging configurable (consola/SQLite) y asignación automática de roles.
+### 🤖 Discord Bot Bienvenida
+Bot en JavaScript con `discord.js` para detectar nuevos miembros y enviar bienvenida con embed, logs configurables y roles automáticos.
 
 `JavaScript` `Node.js` `SQLite`
 
-#### Discord Bot Logs
-Bot en TypeScript que monitoriza y registra en tiempo real entradas/salidas, cambios de roles, movimientos en canales de voz, baneos y mensajes eliminados.
+  </td>
+  <td width="50%" valign="top">
+
+### 📜 Discord Bot Logs
+Bot en TypeScript para monitorizar en tiempo real eventos del servidor: entradas/salidas, roles, canales de voz, baneos y borrado de mensajes.
 
 `TypeScript` `Node.js`
 
----
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🧑‍🎓 Proyectos académicos
+### 🏥 API REST Clínica
+Gestión integral de clínica médica con CRUD completo, validación de disponibilidad y respuestas estandarizadas.
 
-#### API REST - Spring Boot y MySQL
-API REST para gestión integral de clínica médica: médicos, pacientes, citas, historias clínicas, especialidades y facturas. CRUD completo con validación de disponibilidad y respuestas estandarizadas.
-
+`Java` `Spring Boot` `MySQL`  
 [![Repositorio](https://img.shields.io/badge/GitHub-Ver_repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
 
-#### API REST - NestJS y MongoDB
-API REST para noticias por secciones con búsqueda por título/autor y validación robusta con DTOs y `class-validator`.
+  </td>
+  <td width="50%" valign="top">
 
-#### Frontend de Noticias - Angular
-SPA en Angular 20 que consume la API REST de noticias. Interfaz tipo magazine con formularios reactivos, gestión de imágenes y estado reactivo con Signals.
+### 📰 Ecosistema Noticias
+API REST en NestJS + MongoDB y frontend en Angular 20 con formularios reactivos, gestión de imágenes y Signals.
+
+`NestJS` `MongoDB` `Angular` `TypeScript`
+
+  </td>
+  </tr>
+</table>
 
 ---
 
-## Actualmente
+## 🎯 Actualmente
 
-- 📚 Aprendiendo y mejorando en backend e IA aplicada.
-- 🛠️ Construyendo proyectos para reforzar arquitectura y buenas prácticas.
-- 🤝 Abierto a oportunidades junior en desarrollo backend/full stack.
+- 📚 Mejorando en arquitectura backend e IA aplicada
+- 🛠️ Construyendo proyectos para reforzar buenas prácticas
+- 🤝 Abierto a oportunidades junior backend/full stack
 
 ---
 
