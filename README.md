@@ -27,6 +27,9 @@ Valencia, Espana
 
 > status --career
 Open to junior backend/full stack opportunities
+
+> mission --hire
+Build clean solutions, ship fast, and keep learning every day
 ```
 
 ---
@@ -37,15 +40,15 @@ Open to junior backend/full stack opportunities
   <tr>
     <td width="33%" valign="top">
       <h3>⚡ BUILD ENGINE</h3>
-      <p>Diseno y construccion de APIs y aplicaciones con foco en claridad, rendimiento y mantenibilidad.</p>
+      <p>Diseno y construccion de APIs y aplicaciones con foco en claridad, rendimiento y mantenibilidad desde el primer commit.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🤖 AUTOMATION UNIT</h3>
-      <p>Bots y procesos automatizados para reducir tareas manuales y mejorar eficiencia operativa.</p>
+      <p>Bots y procesos automatizados para reducir tareas manuales, ahorrar tiempo y mejorar eficiencia operativa.</p>
     </td>
     <td width="33%" valign="top">
       <h3>🧠 AI COPILOT FLOW</h3>
-      <p>Uso IA en terminal para acelerar implementacion, debugging, refactor y documentacion tecnica.</p>
+      <p>Uso IA en terminal para acelerar implementacion, debugging, refactor y documentacion tecnica sin perder calidad de codigo.</p>
     </td>
   </tr>
 </table>
@@ -124,6 +127,15 @@ Open to junior backend/full stack opportunities
     </td>
   </tr>
 </table>
+
+---
+
+## [ GITHUB SIGNALS ]
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosMarNav&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMarNav&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" alt="Top languages" />
+</div>
 
 ---
 
