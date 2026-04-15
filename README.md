@@ -1,158 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=CARLOS%20MARTIN%20NAVARRO&fontSize=38&color=0:8A2BE2,50:00E5FF,100:FF2ED1&fontColor=ffffff&stroke=111111" alt="cyberpunk-header" />
+# Carlos Martín Navarro
 
-### `SYSTEM ONLINE // DEVELOPER MODE`
-### Backend • Mobile • IA • Automatizacion
+### Desarrollador de Aplicaciones Multiplataforma · Valencia, España
 
-[![Portfolio](https://img.shields.io/badge/NEON_PORTFOLIO-carloscode.es-00E5FF?style=for-the-badge&labelColor=12051E)](https://www.carloscode.es)
-[![GitHub](https://img.shields.io/badge/NEON_GITHUB-CarlosMarNav-FF2ED1?style=for-the-badge&logo=github&logoColor=white&labelColor=12051E)](https://github.com/CarlosMarNav)
-[![Email](https://img.shields.io/badge/CONTACT_PROTOCOL-ACTIVE-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12051E)](mailto:carlosmartinnavarro99@gmail.com)
+# 🌐 [www.carloscode.es](https://www.carloscode.es)
 
 </div>
 
----
 
-## [ BOOT SEQUENCE ]
 
-```bash
-> whoami
-Carlos Martin Navarro
+## Sobre mí
 
-> role --current
-Junior Software Developer
+Desarrollador con 1 año de experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
 
-> location --node
-Valencia, Espana
+Programador junior especializado en desarrollo de aplicaciones, con gran capacidad de adaptación y aprendizaje rápido. Enfocado en la creación de soluciones prácticas, eficientes y orientadas a resultados.Apasionado por la tecnología y la mejora continua, con iniciativa para resolver problemas y afrontar nuevos retos. Busco incorporarme a un entorno profesional donde crecer como desarrollador y aportar valor desde el primer día.
 
-> status --career
-Open to junior backend/full stack opportunities
-
-> mission --hire
-Build clean solutions, ship fast, and keep learning every day
-```
+- 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
+- 1 año de experencia
+- 🔍 En búsqueda activa de mi primera oportunidad profesional
+- 📍 **Valencia, España**
+- 📫 [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
 
 ---
 
-## [ CORE MODULES ]
+## Stack técnico
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>⚡ BUILD ENGINE</h3>
-      <p>Diseno y construccion de APIs y aplicaciones con foco en claridad, rendimiento y mantenibilidad desde el primer commit.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AUTOMATION UNIT</h3>
-      <p>Bots y procesos automatizados para reducir tareas manuales, ahorrar tiempo y mejorar eficiencia operativa.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI COPILOT FLOW</h3>
-      <p>Uso IA en terminal para acelerar implementacion, debugging, refactor y documentacion tecnica sin perder calidad de codigo.</p>
-    </td>
-  </tr>
-</table>
+**Backend**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-## [ CYBER STACK ]
+**Frontend & Mobile**
 
-### Backend Matrix
-![Java](https://img.shields.io/badge/Java-FF6A00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1A1026)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-00D26A?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1A1026)
-![Python](https://img.shields.io/badge/Python-3AA0FF?style=for-the-badge&logo=python&logoColor=white&labelColor=1A1026)
-![Node.js](https://img.shields.io/badge/Node.js-2AD14F?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1A1026)
-![NestJS](https://img.shields.io/badge/NestJS-FF2E63?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=1A1026)
-![C#](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1A1026)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
-### Frontline Interface
-![TypeScript](https://img.shields.io/badge/TypeScript-00B0FF?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1A1026)
-![Angular](https://img.shields.io/badge/Angular-FF1744?style=for-the-badge&logo=angular&logoColor=white&labelColor=1A1026)
-![Ionic](https://img.shields.io/badge/Ionic-4D8DFF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=1A1026)
-![Android](https://img.shields.io/badge/Android-00C853?style=for-the-badge&logo=android&logoColor=white&labelColor=1A1026)
-![Swift](https://img.shields.io/badge/Swift-FF7043?style=for-the-badge&logo=swift&logoColor=white&labelColor=1A1026)
+**Bases de datos**
 
-### Data + Deployment Grid
-![MySQL](https://img.shields.io/badge/MySQL-00BCD4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1A1026)
-![MongoDB](https://img.shields.io/badge/MongoDB-00E676?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1A1026)
-![SQLite](https://img.shields.io/badge/SQLite-2196F3?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1A1026)
-![Docker](https://img.shields.io/badge/Docker-00A3FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=1A1026)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1A1026)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### AI Interface Layer
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1A1026)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1A1026)
-![Claude Terminal](https://img.shields.io/badge/Claude_in_Terminal-00E5FF?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1A1026)
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
-
-## [ PROJECT CARDS // ACTIVE ARCHIVE ]
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ SendingBay // Order Automation</h3>
-      <p>Bot para introducir pedidos en Prestashop, WooCommerce y Shopify desde un sistema centralizado con despliegue cloud.</p>
-      <p><b>Tech:</b> Python, Playwright, Docker, Google Cloud</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧾 SendingBay // Time & Vacations</h3>
-      <p>Plataforma interna para control de fichaje y vacaciones con panel de administracion, exportaciones y tareas programadas.</p>
-      <p><b>Tech:</b> Python, MySQL, Bootstrap</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👾 Discord // Welcome Bot</h3>
-      <p>Sistema de bienvenida automatica con embeds, auto-roles y modulo de logging configurable.</p>
-      <p><b>Tech:</b> JavaScript, Node.js, SQLite</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Discord // Audit Bot</h3>
-      <p>Monitorizacion en tiempo real de eventos: entradas, salidas, cambios de rol, bans y mensajes eliminados.</p>
-      <p><b>Tech:</b> TypeScript, Node.js</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 Clinic API // Medical Core</h3>
-      <p>API REST para gestion clinica completa con CRUD, validaciones y respuestas estandarizadas.</p>
-      <p><b>Tech:</b> Java, Spring Boot, MySQL</p>
-      <p><a href="https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot">[ Open Repository ]</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📰 News System // API + SPA</h3>
-      <p>API de noticias por secciones con frontend Angular 20 y experiencia visual estilo magazine.</p>
-      <p><b>Tech:</b> NestJS, MongoDB, Angular, TypeScript</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## [ GITHUB SIGNALS ]
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosMarNav&show_icons=true&theme=tokyonight&hide_border=true&title_color=00E5FF&icon_color=FF2ED1&text_color=FFFFFF&bg_color=0D1117" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMarNav&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" alt="Top languages" />
+
+# ALGUNOS DE MIS PROYECTOS
+
 </div>
+
+
+## 🚀 Proyectos de prácticas — SendingBay (500h)
+
+### Automatización de Pedidos
+Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado. Automatización anti-detección con Playwright + Camoufox, desplegado en Google Cloud con Docker y API Gateway.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-## [ NEXT LEVEL GOALS ]
+### Gestión de Fichaje y Vacaciones
+Aplicación web interna para gestionar el fichaje diario y el calendario de vacaciones de todos los empleados. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
 
-- Escalar de junior a backend engineer con una base robusta de arquitectura.
-- Integrar IA de forma natural en todo el ciclo de desarrollo.
-- Formar parte de un equipo donde construir impacto real desde el inicio.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
+## 🤖 Bots de Discord
+
+### Discord Bot Bienvenida
+Bot en JavaScript con discord.js que detecta nuevos miembros y envía un mensaje de bienvenida con embed personalizado. Incluye logging configurable (consola/SQLite) y asignación automática de roles.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### Discord Bot Logs
+Bot en TypeScript que monitoriza y registra en tiempo real los eventos del servidor: entradas/salidas, cambios de roles, movimientos en canales de voz, baneos y mensajes eliminados.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+## 🧑‍🎓 Proyectos académicos
+
+### API REST — Spring Boot y MySQL
+API REST para la gestión de una clínica médica: médicos, pacientes, citas, historias clínicas, especialidades y facturas. CRUD completo con validación de disponibilidad y respuestas estandarizadas.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
+
+---
+
+### API REST — NestJS y MongoDB
+API REST para gestión de noticias organizadas por secciones. Búsqueda por título/autor con coincidencia parcial, validación de datos con DTOs y class-validator.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### Frontend de Noticias — Angular
+SPA en Angular 20 que consume la API REST de noticias. Interfaz estilo magazine con formularios reactivos, gestión de imágenes, tiempo de lectura dinámico y estado reactivo con Signals.
+
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
 <div align="center">
 
-### `OPEN CHANNELS`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12051E)](https://linkedin.com/in/TU_USUARIO)
-[![GitHub](https://img.shields.io/badge/GitHub-CarlosMarNav-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=12051E)](https://github.com/CarlosMarNav)
-[![Email](https://img.shields.io/badge/Email-SEND_MESSAGE-FF2ED1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=12051E)](mailto:carlosmartinnavarro99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMarNav)
+[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmartinnavarro99@gmail.com)
 
 </div>
