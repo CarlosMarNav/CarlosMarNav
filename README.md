@@ -1,113 +1,154 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Carlos%20Martin%20Navarro&fontSize=36&fontAlignY=35&color=0:0F172A,100:2563EB&fontColor=FFFFFF" alt="header" />
-</p>
+<div align="center">
 
-<h2 align="center">Desarrollador Full Stack Jr. enfocado en construir productos web utiles, rapidos y escalables</h2>
+# Carlos Martín Navarro
 
-<p align="center">
-  <a href="https://www.carloscode.es" target="_blank"><strong>Portfolio</strong></a> ·
-  <a href="mailto:carlosmartinnavarro99@gmail.com"><strong>Email</strong></a> ·
-  <a href="https://github.com/CarlosMarNav"><strong>GitHub</strong></a> ·
-  <a href="https://linkedin.com/in/TU_USUARIO"><strong>LinkedIn</strong></a>
-</p>
+### Desarrollador de Aplicaciones Multiplataforma · Valencia, España
 
----
+# 🌐 [www.carloscode.es](https://www.carloscode.es)
 
-## Quien soy
+</div>
 
-Soy desarrollador DAM con experiencia real en proyectos de automatizacion, paneles internos y APIs REST. Me especializo en backend y arquitectura de aplicaciones web, pero tambien disfruto construyendo frontends limpios y orientados a conversion.
 
-Trabajo con mentalidad de producto: no solo "hago que funcione", sino que busco que la solucion sea mantenible, medible y facil de escalar.
 
-- Ubicacion: Valencia, Espana
-- Experiencia: 1 ano en practicas profesionales + proyectos propios
-- Objetivo actual: incorporarme a un equipo donde crecer y aportar desde el primer sprint
+## Sobre mí
 
----
+Desarrollador con 1 año de experiencia en desarrollo backend, aplicaciones móviles y bases de datos relacionales y no relacionales.
 
-## Stack principal
+Programador junior especializado en desarrollo de aplicaciones, con gran capacidad de adaptación y aprendizaje rápido. Enfocado en la creación de soluciones prácticas, eficientes y orientadas a resultados.Apasionado por la tecnología y la mejora continua, con iniciativa para resolver problemas y afrontar nuevos retos. Busco incorporarme a un entorno profesional donde crecer como desarrollador y aportar valor desde el primer día.
 
-### Backend y APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend y cliente
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Datos, despliegue y herramientas
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🎓 Titulado en **DAM** — Desarrollo de Aplicaciones Multiplataforma
+- 1 año de experencia
+- 🤖 Manejo herramientas de IA generativa aplicadas al desarrollo
+- 🔍 En búsqueda activa de mi primera oportunidad profesional
+- 📍 **Valencia, España**
+- 📫 [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
 
 ---
 
-## Proyectos destacados
+## Stack técnico
 
-### SendingBay - Automatizacion de pedidos (Practicas 500h)
-Automatizacion del flujo de pedidos entre plataforma central y ecommerce (Prestashop, WooCommerce, Shopify), con enfoque anti deteccion y despliegue cloud.
+**Backend**
 
-**Impacto:**
-- Reduccion drastica del trabajo manual operativo
-- Flujo robusto y repetible para distintos canales
-- Entorno listo para escalar por volumen de pedidos
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-**Tecnologias:** `Python` `Playwright` `Camoufox` `Docker` `Google Cloud`
+**Frontend & Mobile**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+
+**Bases de datos**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**IA y asistentes**
+
+![Claude Terminal](https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111111?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+
+---
+<div align="center">
+
+# ALGUNOS DE MIS PROYECTOS
+
+</div>
+
+
+## 🚀 Proyectos de prácticas — SendingBay (500h)
+
+### Automatización de Pedidos
+Bot para introducir pedidos automáticamente en Prestashop, WooCommerce y Shopify desde un sistema centralizado. Automatización anti-detección con Playwright + Camoufox, desplegado en Google Cloud con Docker y API Gateway.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-### SendingBay - Gestion de fichaje y vacaciones
-Aplicacion web interna para control horario y gestion de ausencias, con panel administrador, reportes y tareas automatizadas.
+### Gestión de Fichaje y Vacaciones
+Aplicación web interna para gestionar el fichaje diario y el calendario de vacaciones de todos los empleados. Incluye panel de administración, informes exportables en PDF/CSV/XLSX y tareas programadas con APScheduler.
 
-**Valor entregado:**
-- Control centralizado para RRHH y managers
-- Exportacion de datos en PDF, CSV y XLSX
-- Automatizacion de tareas recurrentes del sistema
-
-**Tecnologias:** `Python` `MySQL` `Bootstrap` `APScheduler` `Google Cloud`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
-### API Clinica - Spring Boot + MySQL
-Backend REST para gestionar medicos, pacientes, citas, historias clinicas y facturas, con reglas de negocio y validaciones de disponibilidad.
+## 🤖 Bots de Discord
 
-**Repositorio:** [Ver proyecto](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
+### Discord Bot Bienvenida
+Bot en JavaScript con discord.js que detecta nuevos miembros y envía un mensaje de bienvenida con embed personalizado. Incluye logging configurable (consola/SQLite) y asignación automática de roles.
 
-**Tecnologias:** `Java` `Spring Boot` `MySQL`
-
----
-
-### Ecosistema de Noticias - NestJS + Angular
-Backend en NestJS y frontend en Angular para gestion de noticias por secciones, busqueda por texto y formularios reactivos.
-
-**Tecnologias:** `NestJS` `MongoDB` `Angular` `TypeScript` `Bootstrap`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## Enfoque de trabajo
+### Discord Bot Logs
+Bot en TypeScript que monitoriza y registra en tiempo real los eventos del servidor: entradas/salidas, cambios de roles, movimientos en canales de voz, baneos y mensajes eliminados.
 
-- Desarrollo orientado a negocio y experiencia de usuario
-- Codigo mantenible con estructura clara y escalable
-- Comunicacion directa, autonomia y aprendizaje continuo
-- Uso de IA como acelerador de productividad, no como dependencia
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
-## Hablemos
+## 🧑‍🎓 Proyectos académicos
 
-Si buscas a alguien junior con base tecnica solida, iniciativa y foco en resultados, estare encantado de colaborar en tu equipo o proyecto.
+### API REST — Spring Boot y MySQL
+API REST para la gestión de una clínica médica: médicos, pacientes, citas, historias clínicas, especialidades y facturas. CRUD completo con validación de disponibilidad y respuestas estandarizadas.
 
-- Web: [www.carloscode.es](https://www.carloscode.es)
-- Email: [carlosmartinnavarro99@gmail.com](mailto:carlosmartinnavarro99@gmail.com)
-- GitHub: [github.com/CarlosMarNav](https://github.com/CarlosMarNav)
-- LinkedIn: [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CarlosMarNav/1-Clases-Clinica-API-SpringBoot)
+
+---
+
+### API REST — NestJS y MongoDB
+API REST para gestión de noticias organizadas por secciones. Búsqueda por título/autor con coincidencia parcial, validación de datos con DTOs y class-validator.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### Frontend de Noticias — Angular
+SPA en Angular 20 que consume la API REST de noticias. Interfaz estilo magazine con formularios reactivos, gestión de imágenes, tiempo de lectura dinámico y estado reactivo con Signals.
+
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosMarNav)
+[![Email](https://img.shields.io/badge/Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosmartinnavarro99@gmail.com)
+
+</div>
